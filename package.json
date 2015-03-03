@@ -1,6 +1,6 @@
 {
   "name": "containership.plugin.tide-scheduler",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A cron-like job scheduler for ContainerShip",
   "main": "application.js",
   "scripts": {

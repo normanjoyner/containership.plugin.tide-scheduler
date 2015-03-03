@@ -1,0 +1,16 @@
+{
+        "id": "sleepy",
+        "schedule": {
+            "hour": 12,
+            "minute": 30,
+            "dayOfWeek": 0,
+            "recurring": false
+        },
+        "application": {
+            "image": "ubuntu",
+            "command": "sleep 60",
+            "memory": 64,
+            "cpus": 0.5
+        },
+        "instances": 1
+}

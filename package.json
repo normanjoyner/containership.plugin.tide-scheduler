@@ -21,5 +21,13 @@
     "scheduler",
     "tide-scheduler",
     "containership"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/containership/containership.plugin.tide-scheduler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/containership/containership.plugin.tide-scheduler/issues"
+  },
+  "homepage": "https://github.com/containership/containership.plugin.tide-scheduler"
 }

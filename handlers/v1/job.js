@@ -9,6 +9,7 @@ module.exports = {
     },
 
     create: function(req, res, next){
+        req.body.id = req.params.job;
         tide_scheduler.add_job(req.body, function(){
             res.stash.code = 201;
             return next();

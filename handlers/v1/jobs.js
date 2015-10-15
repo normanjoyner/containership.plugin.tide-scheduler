@@ -1,3 +1,4 @@
+var _ = require("lodash");
 var tide_scheduler = require([__dirname, "..", "..", "lib", "tide-scheduler"].join("/"));
 
 module.exports = {
